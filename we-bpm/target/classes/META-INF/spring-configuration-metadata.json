@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.config.PlatformProperties",
+      "name": "we.config",
+      "type": "com.config.PlatformProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.config.PlatformProperties",
+      "name": "we.config.login-page-app-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.config.PlatformProperties",
+      "name": "we.config.use-conc",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
